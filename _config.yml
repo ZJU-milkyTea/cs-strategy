@@ -162,8 +162,8 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   - type: git
-    repo: https://github.com/xaoxuu/resume.js.org.git
-    branch: master
+    repo: https://github.com/ZJU-milkyTea/cs-strategy.git
+    branch: main
     message: update pages
 
 feed:
