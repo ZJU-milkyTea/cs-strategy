@@ -13,9 +13,9 @@ theme_config:
   robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
+url: https://zju-milkytea.github.io
 # url: http://localhost:4000
-root: /
+root: /cs-strategy
 permalink: posts/:title/
 tag_dir: tags
 archive_dir: archives
