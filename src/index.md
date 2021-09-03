@@ -8,7 +8,7 @@ description:
 resume_title: FAFUCS-大学四年攻略-计算机方向
 # 应聘者姓名
 name: CS-strategy
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+avatar: ./images/logo1.png #https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
@@ -39,9 +39,9 @@ contact:
 本文提供PDF版，点击下载：<a href="./zips/FAFU-大学四年攻略-计算机方向.pdf">FAFU-大学四年攻略-计算机方向.pdf</a>
 
 ## 前言
-<!-- <font size = 4 font-family= Microsoft YaHei> -->
+
 &emsp;&emsp;经过大学四年，踩了许多坑，越来越有感觉有一个<span style="background-color: lightgreen">明确的计划</span>和<span style="background-color: lightgreen">消除信息差</span>是决定大学四年发展好坏的决定性因素，因此找到了都出身于农大的各方向的人才写了这篇攻略，希望学弟学妹们可以更好的发展。
-&emsp;&emsp;对于刚入学的新生，当你看完这篇攻略后，会觉得很茫然，突然接触到大量陌生的东西，这是很正常的，因为这篇攻略几乎包含了计算机相关专业的主要发展路径和方法，可以每隔一段时间进行回顾这篇攻略，相信你会有新的认识。攻略网址：<a href="www.guide.efafucs.com">www.guide.efafucs.com</a>
+&emsp;&emsp;对于刚入学的新生，当你看完这篇攻略后，会觉得很茫然，突然接触到大量陌生的东西，这是很正常的，因为这篇攻略几乎包含了计算机相关专业的主要发展路径和方法，可以每隔一段时间进行回顾这篇攻略，相信你会有新的认识。攻略网址：<a href="https://www.guide.efafucs.com">www.guide.efafucs.com</a>
 &emsp;&emsp;对于零基础的同学读完一遍攻略后，希望你至少要记住：大一要做的事，就业和考研的时间节点。其他半懂的地方可以根据兴趣深入再了解。
 &emsp;&emsp;本文主要在以下七大类进行介绍：
   &emsp;&emsp;1. **大学四年怎么过：** 高三暑假到大四的关键时间节点，核心课程
@@ -420,13 +420,9 @@ Top 2: [猿辅导](http://hr.yuanfudao.com/campus_apply/fenbi/28#/)，[苏宁易
 
 **3.流程:**  <span style="background-color: yellow">网申→笔试→面试→offer发放</span>
 **4.流程介绍**
-
 &emsp;&emsp;**网申：** 简历最好自己做（**pdf** 格式），简洁即可，忌花里胡哨。（简历内容参考如Tips）
-
 &emsp;&emsp;**笔试：** 投递简历之后，邮件通知笔试时间以及网址。**在线编程**，ACM赛制，全程摄像头监控。若通过则会有邮件通知。内容包括：模拟题、思维题、树结构、递归、字符串；题库：[牛客网题库](https://www.nowcoder.com/contestRoom)、[lintcode](https://www.lintcode.com/problem/?typeId=2)、[leetcode](https://leetcode-cn.com/)、《**剑指offer**》
-
 &emsp;&emsp;**面试：** 简历和笔试通过，则HR会通过邮箱和电话联系你，确定面试时间。面试可能<span style="background-color: yellow">2-4轮**技术面**+1轮**HR面**</span>。
-
 ​		**（1）技术面:** 自我介绍，然后面试官会根据简历问项目经历、实习经历、竞赛经历，然后考察**语言**（C++或 java），以及**专业课**（数据结构、计算机网络、操作系统、数据库），并且可能要求**现场写代码题**。
 
 &emsp;&emsp;①其中语言和专业课深度 > 课本知识，多看相关公司职位的面试经验。语言问**底层实现**，比如 ArrayList和 LinkList 的底层原理、C语言编译过程等。
@@ -678,9 +674,9 @@ Tips:测试这个岗位的面试要求会较开发低些，是进入大厂的一
 
 **学习方法**：
 
-​      &emsp;&emsp;看完【基本功】概念入门教程，熟悉工具以后就要进行创造。把游戏功能在UE4中用可视化编程重新实现一边，这个时候可以找完整项目的教程 或 单个游戏功能模块的教程，进一步提高对蓝图的熟练度**。**例：背包系统，对话系统，处决功能，任务系统，RPG游戏，FPS游戏等
+​      &emsp;&emsp;看完【基本功】概念入门教程，熟悉工具以后就要进行创造。把游戏功能在UE4中用可视化编程重新实现一边，这个时候可以找完整项目的教程 或 单个游戏功能模块的教程，进一步提高对蓝图的熟练度。例：背包系统，对话系统，处决功能，任务系统，RPG游戏，FPS游戏等
 
-​		&emsp;&emsp;Tips：这个过程**Allin**的状态去做短则2-3个月，长的可能要半年，不仅接触蓝图还包括刷教程等，用熟工具才是目的。期间可能会触及除了蓝图以外的杂项知识点，例如地编，编辑材质节点，写UE4C++代码等等。
+​		&emsp;&emsp;Tips：这个过程**All-in**的状态去做短则2-3个月，长的可能要半年，不仅接触蓝图还包括刷教程等，用熟工具才是目的。期间可能会触及除了蓝图以外的杂项知识点，例如地编，编辑材质节点，写UE4C++代码等等。
 
 **二、游戏程序Gameplay方向**
 
@@ -1192,7 +1188,7 @@ cs231n:http://cs231n.stanford.edu/  斯坦福的经典cv课
 
 &emsp;&emsp;关于**专业课（数学）** 的准备，基础比较重要，面试的问题不难，但是涉及的范围都比较广，对于学的比较早的课程要重新拿出来复习
 
-# 考研
+## 考研
 ## 考研介绍
 &emsp;&emsp;考研可以认为是一次升学考试，从学士到硕士的一条路，你可以通过它换个专业或者换个学校，是再一次提升学历和转专业的机会。
 **时间点**
