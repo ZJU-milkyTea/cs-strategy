@@ -39,7 +39,7 @@ contact:
 本文提供PDF版，点击下载：<a href="./zips/FAFU-大学四年攻略-计算机方向.pdf">FAFU-大学四年攻略-计算机方向.pdf</a>
 
 ## 前言
-<!-- <font size = 4 font-family= Microsoft YaHei> -->
+
 &emsp;&emsp;经过大学四年，踩了许多坑，越来越有感觉有一个<span style="background-color: lightgreen">明确的计划</span>和<span style="background-color: lightgreen">消除信息差</span>是决定大学四年发展好坏的决定性因素，因此找到了都出身于农大的各方向的人才写了这篇攻略，希望学弟学妹们可以更好的发展。
 &emsp;&emsp;对于刚入学的新生，当你看完这篇攻略后，会觉得很茫然，突然接触到大量陌生的东西，这是很正常的，因为这篇攻略几乎包含了计算机相关专业的主要发展路径和方法，可以每隔一段时间进行回顾这篇攻略，相信你会有新的认识。攻略网址：<a href="https://www.guide.efafucs.com">www.guide.efafucs.com</a>
 &emsp;&emsp;对于零基础的同学读完一遍攻略后，希望你至少要记住：大一要做的事，就业和考研的时间节点。其他半懂的地方可以根据兴趣深入再了解。
