@@ -1112,7 +1112,7 @@ cs231n:http://cs231n.stanford.edu/  斯坦福的经典cv课
 **计信院 2019-2023 年的名额分配&去向：**
 <span><font color="blue">（以下年份为毕业年份，2021届毕业生的入学年份为2017级，以此类推）</font></span>
 
-<table height="100" width="150" border="1" align="center">
+<table height="100" width="150" border="1">
 		<tr>
 			<th style="text-align:center">毕业年份</th>
 			<th style="text-align:center">2019</th>
